@@ -25,3 +25,5 @@ Homer stays on the same square (direction 5)
 
 
 ###### The Simpsons is copyright Twentieth Century Fox Film Corporation and is not affiliated with this little game. All trademarks are the property of their respective owners. ######
+
+![octocat-1688650248392](https://github.com/MMVonnSeek/Python-Simpsons-Game/assets/89359847/bda166ff-d1d9-43d6-9f6e-bce81c267429)
